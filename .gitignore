@@ -5,3 +5,4 @@
 .ipynb_checkpoints/
 
 attrition_model_rf.pkl
+attrition_model_xgb.pkl
